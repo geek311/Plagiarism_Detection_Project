@@ -2,7 +2,7 @@
 
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
-# This is complete, tested and model is evaluated - provides 100% accuracy
+### This is complete, tested and model is evaluated - provides 100% accuracy
 
 ## Project Overview
 
